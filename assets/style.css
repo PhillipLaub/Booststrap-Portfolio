@@ -1,0 +1,33 @@
+.mainnav {
+    background: gray !important;
+    height: 90px !important;
+    border-bottom: #4aaaa5 !important;
+    margin: auto !important;
+}
+
+.myname {
+
+font-size:50px !important;
+line-height:130% !important;
+background:#4aaaa5 !important;
+color: white !important;
+height: 100% !important;
+text-align: center !important;
+}
+
+.navlinks {
+    list-style-type: none !important;
+    display: inline-block !important;
+    margin: 0 !important;
+    padding-left: 10px !important;
+    padding-right:10px !important;
+    font-size:18px !important;
+    opacity: 0.70 !important;
+    text-decoration:none !important;
+    color:#777777 !important;
+}
+
+nav {
+    width: 960px !important;
+    margin: auto !important;
+}
